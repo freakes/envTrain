@@ -1,0 +1,6 @@
+.git
+bin
+../.idea
+.env*
+configs/config.json
+coverage.outxz
